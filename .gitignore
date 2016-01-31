@@ -1,0 +1,11 @@
+*.tikz
+*.h5
+.refresh
+img/tikz
+.fuse_hidden*
+*.nav
+*.out
+*.snm
+*.toc
+*.zip
+*.pdf
